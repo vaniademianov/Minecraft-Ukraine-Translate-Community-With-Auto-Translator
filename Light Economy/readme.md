@@ -7,5 +7,5 @@
 
 ## Інсталяція
 
-1. Завантажте файл `messages.yml`
-2. Закиньте його у папку `/plugins/lightEconomy/` з заміною
+1. Завантажте файл `messages.yml`, `title.yml`, `voucher.yml`
+2. Закиньте всі файли у папку `/plugins/lightEconomy/` з заміною
