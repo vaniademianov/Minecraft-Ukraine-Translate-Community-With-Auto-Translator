@@ -1,0 +1,17 @@
+titles:
+  deposit-wallet:
+    enable: false
+    counter:
+      upper-line: '&7Депозит &cв &7гаманець'
+      lower-line: '&a+ &7#amount#'
+    final:
+      upper-line: '&a+ &7#amount#'
+      lower-line: '&7Ви отримали депозит'
+  withdraw-wallet:
+    enable: false
+    counter:
+      upper-line: '&7Зняття &cз &7гаманця'
+      lower-line: '&c- &7#amount#'
+    final:
+      upper-line: '&c- &7#amount#'
+      lower-line: '&7Ви зробили покупку'
